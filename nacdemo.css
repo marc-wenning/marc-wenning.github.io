@@ -15,3 +15,7 @@
   text-transform: uppercase; 
   text-decoration: underline; 
 }
+[dir] .nx-theme-styles .nx-theme-form .nx-theme-input-1 { 
+  background-color: #5f585f; 
+  color: #ffee00;
+}
