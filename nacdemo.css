@@ -23,3 +23,8 @@
   background-color: #464646; 
   color: #b9ff50; 
 }
+[dir] .nx-theme-styles ntx-richtext-label .high-budget .nx-theme-richtext p {
+  color: #da0000;
+}[dir] .nx-theme-styles ntx-richtext-label .medium-budget .nx-theme-richtext p {
+  color: #daa520; 
+}
