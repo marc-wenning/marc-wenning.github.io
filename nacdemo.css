@@ -1,3 +1,6 @@
 [dir] .nx-theme-styles .nx-theme-form { 
 	background-color: #FFF8DC; 
 }
+[dir] .nx-theme-styles .nx-theme-page {
+  background-color: #bd0451;
+}
