@@ -9,3 +9,9 @@
   font-weight: 700; 
   width: 100%; 
 }
+[dir] .nx-theme-styles .nx-theme-form .nx-theme-label-1 { 
+  text-align: right; 
+  color: #910adf; 
+  text-transform: uppercase; 
+  text-decoration: underline; 
+}
