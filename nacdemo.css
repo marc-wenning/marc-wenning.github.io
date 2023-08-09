@@ -19,3 +19,7 @@
   background-color: #5f585f; 
   color: #ffee00;
 }
+[dir] .nx-theme-styles .nx-theme-form ntx-repeating-section ntx-textbox .nx-theme-input-1 { 
+  background-color: #464646; 
+  color: #b9ff50; 
+}
